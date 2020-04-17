@@ -1,0 +1,23 @@
+.App,
+.scene {
+  text-align: center;
+  /* margin-top: 10vh; */
+  height: 100vh;
+}
+
+h4 {
+  color: white;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+iframe {
+  padding: 10px;
+  border: 2px solid black;
+  border-radius: 10px;
+}
